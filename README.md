@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cv46hoqx976bgunx?svg=true)](https://ci.appveyor.com/project/AlenaNadezhkina/hwautotest2)
